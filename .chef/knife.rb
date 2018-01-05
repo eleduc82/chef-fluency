@@ -3,7 +3,7 @@
 current_dir = File.dirname(__FILE__)
 log_level                :info
 log_location             STDOUT
-node_name                "etienne"
-client_key               "#{current_dir}/etienne.pem"
-chef_server_url          "https://etiennel2.mylabserver.com/organizations/lemince-org"
+node_name                "etiennel"
+client_key               "#{current_dir}/etiennel.pem"
+chef_server_url          "https://etiennel5.mylabserver.com/organizations/shortorg"
 cookbook_path            ["#{current_dir}/../cookbooks"]

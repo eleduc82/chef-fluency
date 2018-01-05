@@ -1,7 +1,5 @@
 # Chef
-.chef/*.pem
-.chef/encrypted_data_bag_secret
-.chef/syntaxcache
+.chef/
 
 # Ruby
 .rake_test_cache
